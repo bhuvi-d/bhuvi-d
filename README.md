@@ -12,8 +12,8 @@ I’ve mostly worked on **MERN stack projects**, and have a special affinity tow
 > _“I would love to change the world, but they won’t give me the source code.”_  
 > _“The more you break systems, the more you learn.”_
 
-📚 Check out my tech articles on [Dev.to](https://dev.to/bhuvi_d)  
-🎙️ Listen to my podcast — [Commit and Chill](https://open.spotify.com/show/4ftrwHcbe0aUMO4Wri8GJB?si=nD_GQVDhRP-kpcODDThE2Q)
+➡️ Check out my tech articles on [Dev.to](https://dev.to/bhuvi_d)  
+➡️ Listen to my podcast — [Commit and Chill](https://open.spotify.com/show/4ftrwHcbe0aUMO4Wri8GJB?si=nD_GQVDhRP-kpcODDThE2Q)
 
 ---
 
@@ -26,6 +26,13 @@ I’ve mostly worked on **MERN stack projects**, and have a special affinity tow
 ---
 
 <p align="center">✨ Thanks for stopping by! More code contributions coming up :) ✨</p>
+
+<h2 align="center">🌍 My Contributions as a Globe</h2>
+<p align="center">
+  <a href="https://github-contribution-graph.vercel.app/?username=bhuvi-d">
+    <img src="https://github-contribution-graph.vercel.app/api?username=bhuvi-d" alt="3D Globe of Contributions" width="400" />
+  </a>
+</p>
 
 <!--
 **bhuvi-d/bhuvi-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

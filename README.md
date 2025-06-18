@@ -12,7 +12,7 @@ I have mostly worked on **MERN projects** and have a special affinity toward **P
 > _"I would love to change the world but they won't give me the source code."_  
 > _"The more you break systems, the more you learn."_
 
-➡️ Check out my tech articles on [Dev.to](https://dev.to/bhuvi_d)  
+➡️ Check out my tech articles on → [Dev.to](https://dev.to/bhuvi_d)  
 ➡️ Listen to my podcast → [**Commit and Chill**](https://open.spotify.com/show/4ftrwHcbe0aUMO4Wri8GJB?si=nD_GQVDhRP-kpcODDThE2Q )
 
 ---

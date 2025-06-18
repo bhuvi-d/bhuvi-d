@@ -4,20 +4,20 @@
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me 🌸
 
-Hi, I’m Bhuvi. I love exploring **Web Development**, **Machine Learning**, and a little bit of design ✨  
-Mostly building stuff in **MERN stack** and sometimes sipping Pythonic chai ☕ with React.
+Hi, I am Bhuvi. I particularly like exploring **Web Development** and **Machine Learning**.  
+I have mostly worked on **MERN projects** and have a special affinity toward **Python** and **React**.
 
-> 💡 *"I would love to change the world, but they won’t give me the source code."*  
-> 🧨 *"The more you break systems, the more you learn."*
+> _"I would love to change the world but they won't give me the source code."_  
+> _"The more you break systems, the more you learn."_
 
-📚 I write tech stuff on [Dev.to](https://dev.to/yourusername)  
-🎙️ I host a chill tech podcast → [Commit and Chill](https://open.spotify.com/show/yourpodcastlink)
+Check out my tech articles on [Dev.to](https://dev.to/yourusername)  
+Listen to my podcast → [**Commit and Chill**](https://open.spotify.com/show/yourpodcastlink)
 
 ---
 
-## 💼 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,python,java" />
@@ -33,11 +33,11 @@ Mostly building stuff in **MERN stack** and sometimes sipping Pythonic chai ☕ 
 
 ---
 
-## 💬 Currently Building
+## 🧠 Currently Building
 
-- 🥗 A full-stack calorie & hostel tracker app  
-- 🎙️ Season 1 of **Commit and Chill**  
-- 🧠 AI for smart crop spraying with drones  
+- ✨ A full-stack hostel tracker with calorie logging  
+- ✨ New episodes of **Commit and Chill**  
+- ✨ A drone-based precision agriculture system using AI
 
 ---
 
@@ -46,10 +46,4 @@ Mostly building stuff in **MERN stack** and sometimes sipping Pythonic chai ☕ 
   <br />
   ✨ Thanks for stopping by! More code contributions coming up :) ✨
 </p>
-orate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+

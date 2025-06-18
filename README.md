@@ -4,44 +4,49 @@
 
 ---
 
-## 🌸 About Me
+## 👩‍💻 About Me
 
-Hi, I’m Bhuvi. I particularly like exploring **Web Development** and **Machine Learning**.  
-I’ve mostly worked on **MERN stack projects**, and have a special affinity toward **Python** and **React**.
+Hi, I’m Bhuvi. I love exploring **Web Development**, **Machine Learning**, and a little bit of design ✨  
+Mostly building stuff in **MERN stack** and sometimes sipping Pythonic chai ☕ with React.
 
-> _“I would love to change the world, but they won’t give me the source code.”_  
-> _“The more you break systems, the more you learn.”_
+> 💡 *"I would love to change the world, but they won’t give me the source code."*  
+> 🧨 *"The more you break systems, the more you learn."*
 
-➡️ Check out my tech articles on [Dev.to](https://dev.to/bhuvi_d)  
-➡️ Listen to my podcast — [Commit and Chill](https://open.spotify.com/show/4ftrwHcbe0aUMO4Wri8GJB?si=nD_GQVDhRP-kpcODDThE2Q)
+📚 I write tech stuff on [Dev.to](https://dev.to/yourusername)  
+🎙️ I host a chill tech podcast → [Commit and Chill](https://open.spotify.com/show/yourpodcastlink)
 
 ---
 
-## 🔧 Tech Stack
+## 💼 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,python,java" />
 </p>
 
 ---
 
-<p align="center">✨ Thanks for stopping by! More code contributions coming up :) ✨</p>
+## 📊 My GitHub Vibes
 
-<h2 align="center">🌍 My Contributions as a Globe</h2>
 <p align="center">
-  <a href="https://github-contribution-graph.vercel.app/?username=bhuvi-d">
-    <img src="https://github-contribution-graph.vercel.app/api?username=bhuvi-d" alt="3D Globe of Contributions" width="400" />
-  </a>
+  <img src="https://ghchart.rshah.org/fb52c0/bhuvi-d" alt="Bhuvi's Github chart" />
 </p>
 
-<!--
-**bhuvi-d/bhuvi-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💬 Currently Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🥗 A full-stack calorie & hostel tracker app  
+- 🎙️ Season 1 of **Commit and Chill**  
+- 🧠 AI for smart crop spraying with drones  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+  <br />
+  ✨ Thanks for stopping by! More code contributions coming up :) ✨
+</p>
+orate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
